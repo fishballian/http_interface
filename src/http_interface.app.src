@@ -1,0 +1,18 @@
+{application, http_interface,
+ [{description, "An OTP application"},
+  {vsn, "0.1.0"},
+  {registered, []},
+  {mod, { http_interface_app, []}},
+  {applications,
+   [kernel,
+    stdlib,
+    simple_cache,
+    gen_web_server
+   ]},
+  {env,[]},
+  {modules, []},
+
+  {maintainers, []},
+  {licenses, []},
+  {links, []}
+ ]}.

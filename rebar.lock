@@ -1,0 +1,12 @@
+[{<<"gen_web_server">>,
+  {git,"git@github.com:fishballian/http_interface.git",
+       {ref,"73e3995d00bf84fe7b1240282f9d442da27012f6"}},
+  0},
+ {<<"resource_discovery">>,
+  {git,"git@github.com:fishballian/resource_discovery.git",
+       {ref,"6e43fd9d256b7e011a58635c68adae520d031f1d"}},
+  1},
+ {<<"simple_cache">>,
+  {git,"git@github.com:fishballian/simple_cache.git",
+       {ref,"eb3885f88358b54fb9044bb465c6e6fa9e2778b6"}},
+  0}].
