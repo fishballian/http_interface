@@ -1,5 +1,5 @@
 [{<<"gen_web_server">>,
-  {git,"git@github.com:fishballian/http_interface.git",
+  {git,"git@github.com:fishballian/gen_web_server.git",
        {ref,"73e3995d00bf84fe7b1240282f9d442da27012f6"}},
   0},
  {<<"resource_discovery">>,
